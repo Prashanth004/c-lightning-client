@@ -78,7 +78,7 @@
  
  3) Get Payment Status
 
- methos : GET
+ method : GET
  url : /api/payment/:bolt11
 
  resposne : array with payment that is asked
